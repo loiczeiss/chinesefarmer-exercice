@@ -1,0 +1,21 @@
+p {
+    font-family: serif;
+    word-spacing: 10px;
+}
+body { 
+    background-color: yellowgreen;
+    color: #140000;
+   max-width: 90;
+   margin: auto;
+}
+a:visited {
+    color: green;
+  }
+a:hover{
+    color: pink;
+}
+blockquote {
+    width: 50%;
+    margin: auto;
+    font-size: 160%;
+}
