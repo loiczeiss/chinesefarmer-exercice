@@ -4,6 +4,10 @@ p {
 }
 body { 
     background-color: yellowgreen;
+    background: -webkit-linear-gradient(90deg, rgb(231, 237, 22), rgb(20, 55, 90));
+    background-image: url("cropped-becode-logo-seal.png")   ;
+    background-repeat: no-repeat;
+    background-size: cover;
     color: #140000;
    max-width: 90;
    margin: auto;
@@ -18,4 +22,9 @@ blockquote {
     width: 50%;
     margin: auto;
     font-size: 160%;
+    background-color: #eeeeee;
+    border-left: solid 2px firebrick;
+    padding: 5px ;
+    margin-top: 80px;
+    margin-bottom: 80px;
 }
